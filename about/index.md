@@ -9,23 +9,21 @@ comments: false
 
 ## Summary
 
-Fourth-year PhD student in Biostatistics. BS in Applied mathematics and MS in Financial Statistics. Strong background in Statistics, Biostatistics and Mathematics. Advanced skills in bioinformatics, data analysis, machine learning, programming, mathematical modeling and quantitative finance. A fast, creative and energetic learner. 
+Senior research statistician at AbbVie. PhD in Biostatistics at Medical College of Wisconsin. BS in Applied mathematics and MS in Financial Statistics. Strong background in Statistics, Biostatistics and Mathematics. Advanced skills in bioinformatics, data analysis, machine learning, programming, mathematical modeling and quantitative finance. A fast, creative and energetic learner. 
 
 ## Education
 
 * Medical College of Wisconsin, Milwaukee, WI, USA
   
-Doctor of Philosophy, Biostatistics, 3.90/4.00	                                           9/2020 – E 5/2025
-  
-Relevant Coursework: Inference, Clinical Trials, Survival Analysis, Statistical Genetics, Bayes, MCMC, Bioinformatics, Models & Methods, Linear Models, Biostatistical computing(R, SAS, simulation), consulting, etc.
+Doctor of Philosophy, Biostatistics                                            9/2020 – 5/2025
 
 * Rutgers University, New Brunswick, NJ, USA
   
-Master of Science, Financial Statistics, 3.90/4.00	                                       9/2018 – 5/2020
+Master of Science, Financial Statistics	                                       9/2018 – 5/2020
   
 * Northwest University, Xi’an, Shaanxi, China 
   
-Bachelor of Science, Applied Mathematics, 3.41/4.00	                                       9/2014 – 7/2018
+Bachelor of Science, Applied Mathematics	                                   9/2014 – 7/2018
 
 ## Skills
 
@@ -37,8 +35,9 @@ Bachelor of Science, Applied Mathematics, 3.41/4.00	                            
 ## Research Experience
 
 ### Missing data imputation based on sampling methods in single-cell analysis       
-*	Based on downsampling and sampling methods to impute dropout events in single-cell data.
-*	Compare the clustering performance with existing methods like Scimpute and RESCUE.
+*	Propose imputation method based on consensus clustering to address dropout events.
+*	Apply deep learning methods to denoise scRNA-seq data with dropout events.
+*	Conduct integrated analysis using dropout information to improve downstream analyses.
 ### Pseudo-value approach for informative cluster size                            
 *	Code from scratch for Kaplan-Meier estimates and competing risk estimates, and also pseudo-values.
 *	Perform simulation based on GEE using pseudo-value approach for informative cluster size to see performance.
@@ -58,3 +57,19 @@ Bachelor of Science, Applied Mathematics, 3.41/4.00	                            
 ### Self-Reported Coping Strategies in Postlingually Deafened Adults and Speech Recognition Outcomes                          
 *	In a retrospective cohort study, characterize the degree to which individual coping strategies may influence speech perception following cochlear implantation.
 *	Perform Correlation analysis among quality-of-life measures, speech outcome measures and scores of coping strategies.
+
+
+## Publications
+*	Juan, W., Ahn, K.W., Chen, Y.G. and Lin, C.W., 2025. CCI: A Consensus Clustering-Based Imputation Method for Addressing Dropout Events in scRNA-Seq Data. Bioengineering, 12(1), p.31.
+*	Juan, W., 2025. Machine Learning Methods and R Packages for Addressing Dropout Events in scRNA-Seq Data (Doctoral dissertation, The Medical College of Wisconsin).
+*	Muthiah, C., Narra, R., Atallah, E., Juan, W., Szabo, A. and Murthy, G.S.G., 2024. Evaluating population-level outcomes in Chronic Lymphocytic leukemia in the era of novel therapies using the SEER registry. Leukemia Research, 140, p.107496.
+*	Espahbodi, M., Harvey, E., Livingston, A.J., Montagne, W., Kozlowski, K., Jensen, J., Liu, X., Juan, W., Tarima, S., Rusch, M. and Harris, M.S., 2022. Association of self-reported coping strategies with speech recognition outcomes in adult cochlear implant users. Otology & Neurotology, 43(8), pp.e888-e894.
+
+## Conferences
+*	Juan, W. (presenter), Ahn, K. W., Lin, C., 2025. DropDAE: Denosing Autoencoder for Addressing Dropout Events in scRNA-seq Data. Presented at ENAR (Eastern North American Region), New Orleans, LA.
+*	Juan, W. (presenter), Ahn, K. W., Lin, C., 2024. CCI: A Consensus Clustering-Based Imputation Method for Addressing Dropout Events in scRNA-seq Data. Presented at ENAR (Eastern North American Region), Baltimore, MD.
+*	Homan, M. E. (presenter), Tarima, S., Juan, W., 2022. Exploratory Analysis of the Wisconsin Pregnancy Risk Assessment Monitoring System to Identify Modifiable Factors Related to Adverse Pregnancy and Birth Outcomes. Presented at the APHA (American Pharmacists Association) 2022 Annual Meeting and Expo, Boston, MA.
+*	Tarima, S. (presenter), Juan, W., Zenkova, Z., & Homan, M., 2022. Use of Previously Published Results for More Powerful Testing of Factors Related to Adverse Birth Outcomes. Presented at JSM (Joint Statistical Meetings), Washington, DC.
+
+
+
